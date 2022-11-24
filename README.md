@@ -6,3 +6,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/daweedkob/count.svg" />
 </p>
+
+
+![](https://komarev.com/ghpvc/?username=Likhon-baRoy&color=ff69b4)

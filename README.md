@@ -43,7 +43,7 @@ Music is like healing power to me. I listen to music almost everyday. Eventually
 
 Sometimes I doodle in my very bored free time. I can draw small and simple things.
 
-[MyDramaList]: https://github.com/Likhon-baRoy/org-notes/quotes.org
+[MyDramaList]: https://github.com/Likhon-baRoy/org-notes/blob/main/quotes.org
 
 
 ![](https://komarev.com/ghpvc/?username=Likhon-baRoy&color=ff69b4)

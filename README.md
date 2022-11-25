@@ -44,7 +44,9 @@ For dramas, anything as well. I have a MyAnimeList profile linked on my website,
 Music is like healing power to me. I listen to music almost everyday. Eventually I'll get to making music as well.
 
 Sometimes I doodle in my very bored free time. I can draw small and simple things.
+
 [MyDramaList]: https://github.com/Likhon-baRoy/org-notes/blob/main/quotes.org
+
 </br>
 </br>
 </br>
@@ -104,6 +106,8 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 ![dino](https://gitee.com/skykeyjoker/PicCloud/raw/master/img/dino.gif)
   
 </div>
+
+
 Please consider [sponsoring](https://github.com/sponsors/Likhon-baRoy/) me! ❤
 
 ![](https://komarev.com/ghpvc/?username=Likhon-baRoy&color=ff69b4)

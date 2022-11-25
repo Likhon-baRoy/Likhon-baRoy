@@ -61,7 +61,7 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 * 🌱 I’m currently learning everything.🤣
 * 🤔 I hope to be proficient in linux system administration.🐧
 * 💬 Ask me about anything and I would like to answer.
-* 📫 Please contact me via humayra.k.rime@gmail.com
+* 📫 Please contact me via likhonhere007@gmail.com
 
 <h2 align="left">Connect With Me:</h2>
 

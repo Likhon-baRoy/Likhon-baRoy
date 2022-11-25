@@ -44,12 +44,17 @@ For dramas, anything as well. I have a MyAnimeList profile linked on my website,
 Music is like healing power to me. I listen to music almost everyday. Eventually I'll get to making music as well.
 
 Sometimes I doodle in my very bored free time. I can draw small and simple things.
-
 [MyDramaList]: https://github.com/Likhon-baRoy/org-notes/blob/main/quotes.org
+</br>
+</br>
+</br>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 **Skills :** C/C++, Java, Emacs Lisp, more
 </br>
 **Tools :** Git, Github, Emacs, Vim, Linux
+
 
 **Current Status Quo:**
 ----
@@ -83,7 +88,7 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
  <br>
  <br>
  <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhon-Sapiens&layout=compact&hide=html&theme=dracula"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Likhon-baRoy&layout=compact&hide=html&theme=dracula"/>
  
   
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Likhon-baRoy&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>

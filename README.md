@@ -47,7 +47,9 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 
 [MyDramaList]: https://github.com/Likhon-baRoy/org-notes/blob/main/quotes.org
 
-Skills: C++ / C / Java / Emacs Lisp / Html / more
+**Skills :** C/C++, Java, Emacs Lisp, more
+</br>
+**Tools :** Git, Github, Emacs, Vim, Linux
 
 Please consider [sponsoring](https://github.com/sponsors/Likhon-baRoy/) me! ❤
 

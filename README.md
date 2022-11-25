@@ -33,6 +33,7 @@ I mostly use C++ or C. I like making things purely for fun or what's useful for 
 
 <p>⇢ <i>Interests</i></p>
 
+- 🤖 I am passionate about *free/libre and open source software* and I embrace **community-driven** development
 I like playing Chess, reading Books. You can join with me in my any kind of project, just let me know :).
 I'm willing to work with @FsF. Hope one day I'll able to do it.
 
@@ -45,5 +46,8 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 
 [MyDramaList]: https://github.com/Likhon-baRoy/org-notes/blob/main/quotes.org
 
+Skills: C++ / C / Java / Emacs Lisp / Html / more
+
+Please consider [sponsoring](https://github.com/sponsors/Likhon-baRoy/) me! ❤
 
 ![](https://komarev.com/ghpvc/?username=Likhon-baRoy&color=ff69b4)

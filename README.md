@@ -34,6 +34,7 @@ I mostly use C++ or C. I like making things purely for fun or what's useful for 
 <p>⇢ <i>Interests</i></p>
 
 - 🤖 I am passionate about *free/libre and open source software* and I embrace **community-driven** development
+
 I like playing Chess, reading Books. You can join with me in my any kind of project, just let me know :).
 I'm willing to work with @FsF. Hope one day I'll able to do it.
 

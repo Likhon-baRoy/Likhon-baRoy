@@ -99,8 +99,9 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 
 
 Please consider [sponsoring](https://github.com/sponsors/Likhon-baRoy/) me! ❤
-<p align="right">
+
+<div align="right">
   
 ![](https://komarev.com/ghpvc/?username=Likhon-baRoy&color=ff69b4)
 
-</p>
+</div>

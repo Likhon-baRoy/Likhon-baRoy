@@ -49,9 +49,9 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 </br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
-**Skills :** C/C++, Java, Emacs Lisp, more
+**Skills :** C/C++, Java, Emacs Lisp and more.
 </br>
-**Tools :** Git, Github, Emacs, Vim, Linux
+**Tools :** Git, Github, Emacs, Vim, GNU/Linux and more.
 
 
 **Current Status Quo:**
@@ -61,7 +61,7 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 * 🌱 I’m currently learning everything.🤣
 * 🤔 I hope to be proficient in linux system administration.🐧
 * 💬 Ask me about anything and I would like to answer.
-* 📫 Please contact me via likhonhere007@gmail.com
+* 📫 Please contact me via [likhonhere007@gmail.com]
 
 <h2 align="left">Connect With Me:</h2>
 

@@ -47,8 +47,6 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 [MyDramaList]: https://github.com/Likhon-baRoy/org-notes/blob/main/quotes.org
 </br>
 </br>
-</br>
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
 
 **Skills :** C/C++, Java, Emacs Lisp, more

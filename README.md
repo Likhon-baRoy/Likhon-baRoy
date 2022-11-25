@@ -33,7 +33,7 @@ I mostly use C++ or C. I like making things purely for fun or what's useful for 
 
 <p>⇢ <i>Interests</i></p>
 
-- 🤖 I am passionate about *free/libre and open source software* and I embrace **community-driven** development
+🤖 I am passionate about *free/libre and open source software* and I embrace **community-driven** development
 
 I like playing Chess, reading Books. You can join with me in my any kind of project, just let me know :).
 I'm willing to work with @FsF. Hope one day I'll able to do it.
@@ -41,7 +41,7 @@ I'm willing to work with @FsF. Hope one day I'll able to do it.
 I watch Anime and Dramas if I'm not busy earning my living :(. I enjoy mainly rational movies and si-fi anime, but basically anything goes.
 For dramas, anything as well. I have a MyAnimeList profile linked on my website, and here's [MyDramaList].
 
-- 🎶 Music is like healing power to me. I listen to music almost everyday. Eventually I'll get to making music as well.
+🎶 Music is like healing power to me. I listen to music almost everyday. Eventually I'll get to making music as well.
 Sometimes I doodle in my very bored free time. I can draw small and simple things.
 
 [MyDramaList]: https://github.com/Likhon-baRoy/org-notes/blob/main/quotes.org

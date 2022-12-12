@@ -28,7 +28,8 @@
 
 Hobbyist software developer. Been programming for almost 3 years, and making user-facing software for half that time.  
 I mostly use C++ or C. I like making things purely for fun or what's useful for me.  
-[Emacs] is an example of a project for fun, [Comfy] is for my use. ⚡ Fun fact: I use spaces over tabs.
+[Emacs] is an example of a project for fun, [Comfy] is for my use.
+⚡ Fun fact: I use spaces over tabs.
 
 [Emacs]: https://github.com/Likhon-baRoy/.emacs.d
 [Comfy]: https://github.com/Likhon-baRoy/dotfiles
@@ -37,7 +38,7 @@ I mostly use C++ or C. I like making things purely for fun or what's useful for 
 
 🤖 I am passionate about *free/libre and open source software* (🐧Linux Enthusiast) and I embrace **community-driven** development
 
-I like playing Chess, reading Books📖. You can join with me in my any kind of project, just let me know :).
+I like playing Chess ♟️, reading Books 📖. You can join with me in my any kind of project, just let me know :).
 I'm willing to work with @FsF. Hope one day I'll able to do it.
 
 I watch Anime and Dramas if I'm not busy earning my living :(. I enjoy mainly rational movies and si-fi anime, but basically anything goes.

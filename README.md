@@ -77,6 +77,9 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://www.medium.com/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<a style="text-decoration: none;box-shadow: none;height: 28px;display: inline-block;" rel="noreferrer" href="https://discord.com/users/ahmubashshir#3527" target="_blank">
+	<img alt="discord" src="https://ahmubashshir.github.io/assets/badges/discord.svg" style="display:inline-block;height:28px;margin:0 1px 0!important" width="104.75" height="28">
+	</a>
   
 </div>
 

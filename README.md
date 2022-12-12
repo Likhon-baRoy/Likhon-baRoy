@@ -32,13 +32,13 @@ I mostly use C++ or C. I like making things purely for fun or what's useful for 
 
 [Emacs]: https://github.com/Likhon-baRoy/.emacs.d
 [Comfy]: https://github.com/Likhon-baRoy/dotfiles
-- ⚡ Fun fact: I use spaces over tabs.
+
 <p>⇢ <i>Interests</i></p>
 
 🤖 I am passionate about *free/libre and open source software* (🐧Linux Enthusiast) and I embrace **community-driven** development
 
 I like playing Chess ♟️, reading Books 📖. You can join with me in my any kind of project, just let me know :).
-I'm willing to work with @FsF. Hope one day I'll able to do it.
+- ⚡ Fun fact: I use spaces over tabs.
 
 I watch Anime and Dramas if I'm not busy earning my living :(. I enjoy mainly rational movies and si-fi anime, but basically anything goes.
 For dramas, anything as well. I have a MyAnimeList profile linked on my website, and here's [MyDramaList].

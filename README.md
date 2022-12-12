@@ -38,7 +38,7 @@ I mostly use C++ or C. I like making things purely for fun or what's useful for 
 🤖 I am passionate about *free/libre and open source software* (🐧Linux Enthusiast) and I embrace **community-driven** development
 
 I like playing Chess ♟️, reading Books 📖. You can join with me in my any kind of project, just let me know :).
-- ⚡ Fun fact: I use spaces over tabs.
+⚡ Fun fact: I use spaces over tabs.
 
 I watch Anime and Dramas if I'm not busy earning my living :(. I enjoy mainly rational movies and si-fi anime, but basically anything goes.
 For dramas, anything as well. I have a MyAnimeList profile linked on my website, and here's [MyDramaList].

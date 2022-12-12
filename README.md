@@ -79,8 +79,11 @@ Sometimes I doodle in my very bored free time. I can draw small and simple thing
 [![Reddit](https://img.shields.io/badge/Reddit-12100E?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Likhon-BaRoy)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/suidan_lidan)
 <a style="text-decoration: none;box-shadow: none;height: 28px;display: inline-block;" rel="noreferrer" href="https://discord.com/users/Likhon BaRoy#9576" target="_blank">
-	<img alt="discord" src="https://ahmubashshir.github.io/assets/badges/discord.svg" style="display:inline-block;height:28px;margin:0 1px 0!important" width="104.75" height="28">
-	</a>
+<img alt="discord" src="https://ahmubashshir.github.io/assets/badges/discord.svg" style="display:inline-block;height:28px;margin:0 1px 0!important" width="104.75" height="28">
+</a>
+<a style="text-decoration: none;box-shadow: none;height: 28px;display: inline-block;" rel="noreferrer" href="https://www.reddit.com/user/Likhon-BaRoy" target="_blank">
+<img alt="reddit" src="https://ahmubashshir.github.io/assets/badges/reddit.svg" style="display:inline-block;height:28px;margin:0 1px 0!important" width="104.75" height="28">
+</a>
   
 </div>
 

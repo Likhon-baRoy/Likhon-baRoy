@@ -1,4 +1,4 @@
-# Hello, I am Likhon! Nice to meet you
+# Hello, I am Likhon! Nice to meet you <img src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" />
 
 ![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
 
